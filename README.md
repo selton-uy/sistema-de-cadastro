@@ -5,5 +5,5 @@
 Para rodar esse projeto na sau máquina, por favor digite:
 
 ```
-npn install rect
+node app.js
 ```
